@@ -7,6 +7,8 @@ Oppgaven gjelder interaksjon med gestures. I dette tilfellet en basic detection 
 ### Min rolle
 Dette er, by and large, min kode.  Vi var tre gruppemedlemmer som i utgangspunktet planla å levere hver vår tilnærming til oppgaven. Istedenfor ble min versjon gjenstand for videreforedling.
 ## Funksjon
-Detecter munnens posisjon, detecter forandringer i kontrast basert på åpen eller lukket munn. Videre testing avdekket at den eksisterende løsningen er sårbar for varierende lysforhold.
+Detecter munnens posisjon, detecter forandringer i kontrast basert på åpen eller lukket munn, og aktiverer keyaction Spacebar. Videre testing avdekket at den eksisterende løsningen er sårbar for varierende lysforhold. 
+## Utbytte
+Prosjektet var i første omgang en erfaring med hvordan ulike interaksjonsmetoder kan være sårbare for variabler i omgivelsene.
 ### Disclaimer
 Fila er titulert som en smiledetector. Dette er noe misvisende, og basert på tidlige versjoner der vi studenter hadde det gøy (som studenter skal) med variert feedback.
